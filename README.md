@@ -1,2 +1,2 @@
 # Calendar
- Bibliothèque pour générer un calendroer
+ Bibliothèque pour générer un calendrier
